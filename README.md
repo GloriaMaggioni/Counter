@@ -14,3 +14,5 @@ The latter ,however, will be reset to zero when the page is refreshed or reopene
 Round lines have been used to give a *soft* look to both the Counter and the title ,accompanied by shades of blue with some effects of shaded white shadows, maintaining the homogeneity of colors throughout the design.
 
 All this was designed to make the  ***Counter*** easy and intuitive to use by any user and at the same time pleasing to the eye.
+
+Link to the project: https://gloriamaggioni.github.io/Counter/
