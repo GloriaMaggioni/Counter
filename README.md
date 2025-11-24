@@ -16,3 +16,9 @@ Round lines have been used to give a *soft* look to both the Counter and the tit
 All this was designed to make the  ***Counter*** easy and intuitive to use by any user and at the same time pleasing to the eye.
 
 Link to the project: https://gloriamaggioni.github.io/Counter/
+
+
+Tecnologies used:
+Html,
+Css,
+Javascript
